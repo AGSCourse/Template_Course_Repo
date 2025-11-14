@@ -19,7 +19,8 @@ Add text here
 
 ### Course Runs
 
-|-- Course Date --|-- Course Title --|-- Citation DOI --|
-|- Add Course Run Dates -|- [Add Course Run Title](Add GitHub Repository Link) -|- Citation DOI -|
+| Course Date | Course Title | Citation DOI |
+| :-----------: | :------------: | :------------: |
+| Add Course Run Dates | [Add Course Run Title](Add GitHub Repository Link) -|- Citation DOI |
 
  
