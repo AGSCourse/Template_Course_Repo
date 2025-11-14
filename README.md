@@ -24,4 +24,10 @@ Add text here
 | :-----------: | :------------: | :------------: |
 | Add Course Run Dates | [Add Course Run Title](Add GitHub Repository Link) | Citation DOI |
 
- 
+## Course Instructors
+_Under development_
+
+---
+This repository was adapted from the Wellcome Connecting Science [Template_Course_Repo](https://github.com/WCSCourses/Template_Course_Repo) 
+
+
