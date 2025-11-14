@@ -1,6 +1,7 @@
 # Add Course Title
 
 [African Genomics Short Course GitHub Home Page](https://github.com/AGSCourse)
+
 [African Genomics Short Course Home Page at Wellcome Connecting Science](https://coursesandconferences.wellcomeconnectingscience.org/event/african-genomics-short-course-20251130/)
 
 Add one line description of the course (the same needs to be added on the right side of the page in the description)
