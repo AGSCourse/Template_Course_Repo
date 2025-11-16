@@ -5,6 +5,8 @@ author: Jane Doe
 toc: true
 ---
 
+[TOC]
+
 # Orientation
 
 ## Module Developers and Assistants
