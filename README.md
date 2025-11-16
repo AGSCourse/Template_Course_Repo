@@ -7,7 +7,7 @@
 Add one line description of the course (the same needs to be added on the right side of the page in the description)
 
 ## Modules
-**Module 1:** Orientation
+**[Module 1](module_1):** Orientation
 
 **Module 2:** Foundations of Genomics and Genetic Medicine
 
