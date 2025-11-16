@@ -1,4 +1,4 @@
-# Add Course Title
+# African Genomics Short Course [add year]
 
 [African Genomics Short Course GitHub Home Page](https://github.com/AGSCourse)
 
