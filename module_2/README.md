@@ -1,4 +1,4 @@
-# Foundation os Genomics and Genetic Medicine 
+# Foundations of Genomics and Genetic Medicine 
 
 ## Table of contents
 1. [Module Developers and Assistants](#devel)
