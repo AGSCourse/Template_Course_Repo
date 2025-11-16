@@ -9,17 +9,17 @@ Add one line description of the course (the same needs to be added on the right 
 ## Modules
 **[Module 1](module_1):** Orientation
 
-**Module 2:** Foundations of Genomics and Genetic Medicine
+**[Module 2](module_2):** Foundations of Genomics and Genetic Medicine
 
-**Module 3:** Ethical, Legal, and Social Implications in Genomics
+**[Module 3](module_3):** Ethical, Legal, and Social Implications in Genomics
 
-**Module 4:** From Lab to Sequence
+**[Module 4](module_4):** From Lab to Sequence
 
-**Module 5:** Genomic Data Analysis and Tools
+**[Module 5](module_5):** Genomic Data Analysis and Tools
 
-**Module 6:** Data to Discovery - Experimental, Computation, and Integrative Approaches
+**[Module 6](module_6):** Data to Discovery - Experimental, Computation, and Integrative Approaches
 
-**Module 7:** Translation and Implementation - Clinical and Public Health
+**[Module 7](module_7):** Translation and Implementation - Clinical and Public Health
 
 
 ## Course Runs
