@@ -37,8 +37,3 @@ Add one line description of the course (the same needs to be added on the right 
 
 _Under development_
 
-
----
-This repository was adapted from the Wellcome Connecting Science [Template_Course_Repo](https://github.com/WCSCourses/Template_Course_Repo) 
-
-
