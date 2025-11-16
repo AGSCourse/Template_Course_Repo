@@ -1,12 +1,4 @@
----
-layout: post
-title: "Module 1: Orientation"
-author: Jane Doe
-toc: true
----
-
 # Orientation 
-
 
 ## Table of contents
 1. [Module Developers and Assistants](#devel)
@@ -16,7 +8,6 @@ toc: true
 5. [Activities and Exercises](#activites)
 6. [Other resources](#other-res)
 7. [References and Acknowledgements](#ackn)
-
 
 
 ## Module Developers and Assistants <a name="devel"></a>
