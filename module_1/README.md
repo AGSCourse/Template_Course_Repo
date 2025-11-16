@@ -5,7 +5,7 @@ author: Jane Doe
 toc: true
 ---
 
-[TOC]
+[[TOC]]
 
 # Orientation
 
